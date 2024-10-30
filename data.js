@@ -1,7 +1,5 @@
 export const bio = [
-  "Hello! I'm Vinay Somawat, an experienced Frontend Software Engineer with a proven ability to upgrade applications, optimize performance, and deliver innovative solutions.",
-  "I am passionate about using my technical skills to drive impactful contributions in challenging projects.",
-  "Thanks for visiting!",
+  "Hello! We are a group of social entrepreneurs,technerds and just about anyone interested in service that brings people together !",
 ];
 
 export const skills = [
@@ -277,20 +275,14 @@ export const footer = [
 //       },
 //     ],
 //   },
+  
   {
     label: "Links",
-    data: [
-    //   {
-    //     text: "Linkedin",
-    //     link: "https://www.linkedin.com/in/vinaysomawat/",
-    //   },
-    //   {
-    //     text: "Twitter",
-    //     link: "https://twitter.com/thesigmakid",
-    //   },
-      {
-        text: "Buy me a coffee",
-        link: "https://www.buymeacoffee.com/r194dME8y",
+    data: 
+      
+      
+    
+ 
       },
       {
         text: "Github/vinaysomawat.github.io",
@@ -301,8 +293,8 @@ export const footer = [
   {
     label: "copyright-text",
     data: [
-      "Made with &hearts; by Vinay Somawat.",
-      "&copy; No Copyrights. Feel free to use this template.",
+    
+      "courtesy uptopia and associates,all rights reserved .",
     ],
   },
 ];
